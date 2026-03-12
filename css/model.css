@@ -167,4 +167,29 @@ strong {
   height: 47px;
   line-height: 47px;
   text-align: center;
+
 }
+  .is-sticky .navbar-icon { 
+    background: var(--secondary-color);
+    color: var(--white-color);
+
+
+
+  } 
+    .form-check-icon {
+      color: var(--secondary-color);
+
+    }
+      .custom-btn,
+      .navbar .custom-btn{
+        font-size: var(--p-font-size);
+        font-weight: var(--font-weight-bold);
+
+      }
+        .navbar .custom-btn {
+          background: transparent;
+          border-width: 2px;
+        }
+ 
+
+
